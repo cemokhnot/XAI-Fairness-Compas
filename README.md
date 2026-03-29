@@ -34,13 +34,9 @@ Run the notebook:
 
 jupyter notebook notebook.ipynb
 
-# Methods
-- Train Random Forest model
-- Generate SHAP explanations
-- Generate counterfactual explanations (DiCE)
-- Evaluate robustness of explanations
 
-#Author
+
+# Author
 [Anastasios Savvidis]
 
 

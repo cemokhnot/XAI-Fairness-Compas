@@ -21,6 +21,16 @@ compas-scores-two-years.csv
 - SHAP (feature importance, global + local explanations)
 - Counterfactual explanations (DiCE)
 
+# Requirements
+
+pandas  
+numpy  
+scikit-learn  
+matplotlib  
+shap  
+dice-ml  
+jupyter 
+
 # Installation
 
 Install required packages:

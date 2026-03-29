@@ -45,8 +45,7 @@ Run the notebook:
 jupyter notebook notebook.ipynb
 
 
-
 # Author
-[Anastasios Savvidis]
+Anastasios Savvidis
 
 

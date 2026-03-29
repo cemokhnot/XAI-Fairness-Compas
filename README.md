@@ -14,6 +14,9 @@ Can explanation methods reveal racial bias in a recidivism prediction model and 
 COMPAS dataset (ProPublica):
 https://github.com/propublica/compas-analysis
 
+Use the file named:
+compas-scores-two-years.csv
+
 # Methods
 - SHAP (feature importance, global + local explanations)
 - Counterfactual explanations (DiCE)
